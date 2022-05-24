@@ -11,6 +11,7 @@ public class Main {
 		try {
 			context = new ClassPathXmlApplicationContext("beans.xml");
 			HelloBean hlw = (HelloBean) context.getBean("HelloBean");
+			hlw.setMsg("Ishwar BSDK...");
 			hlw.sayHello();
 		} 
 		catch (Exception e) {

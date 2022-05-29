@@ -1,2 +1,2 @@
-# SpringPractice1
-My practice arena to explore more about Spring
+# DSAConcepts
+Practice, Analysis and Implement all kind of Data Structures & Algorithms. Will cover many things one by one.
